@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622594001 source:c:\users\sfahg\onedrive\desktop\kmp\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1622644077 source:c:\users\sfahg\onedrive\desktop\bioinfromatics-3-2\biological sequnece analysis\assignment 2\kmp\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
