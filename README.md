@@ -1,5 +1,5 @@
 # Kunth-Morris-Pratt-Algorithm
-* The Knuth-Morris-Pratt (KMP) algorithm allows efficient searching for patterns in non-indexed strings. The first step in the KMP algorithm is to construct the failure links automaton for the pattern that we need to search for.
+* The Knuth-Morris-Pratt (KMP) algorithm allows efficient searching for patterns in non-indexed strings. The first step in the KMP algorithm is to construct the failure links automaton for the pattern that we need to search for then apply the search technique.
 # Functions
 * getPrefix
 ```
